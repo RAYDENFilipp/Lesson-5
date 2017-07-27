@@ -1,0 +1,23 @@
+#form {
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+#chat {
+  position: absolute;
+  top: 21%;
+  left: 22%;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+#messages #members {
+  height: 350px;
+  overflow-y: auto;
+}
+
